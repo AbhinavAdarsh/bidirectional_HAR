@@ -1,0 +1,2 @@
+model_checkpoint_path: "2layer32unit.ckpt"
+all_model_checkpoint_paths: "2layer32unit.ckpt"
